@@ -8,8 +8,8 @@ This repository contains my personal practice and notes for learning deep learni
 
 ## Notebooks
 
-* [Tensorflow Practice](./notebooks/prac_tf.ipynb): Hello World TF code to learn the model in the MNIST dataset.
-* [Tensorflow Transfer Learning](./notebooks/transfer_learning_tf.ipynb): TF code to perform fine-tuning on the existing models to learn the model in the cats-vs-dogs dataset.
-* [PyTorch Practice](./notebooks/prac_pt.ipynb): Hello World PyTorch code to learn the model in the MNIST dataset.
-* [PyTorch Transfer Learning](./notebooks/transfer_learning_pt.ipynb): PyTorch code to perform fine-tuning on the existing models to learn the model in the cats-vs-dogs dataset. (note that the dataset is from `tensorflow_datasets`)
+* Tensorflow Practice [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tidota/deep-learning-practice/blob/main/notebooks/prac_tf.ipynb): Hello World TF code to learn the model in the MNIST dataset.
+* Tensorflow Transfer Learning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tidota/deep-learning-practice/blob/main/notebooks/transfer_learning_tf.ipynb): TF code to perform fine-tuning on the existing models to learn the model in the cats-vs-dogs dataset.
+* PyTorch Practice [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tidota/deep-learning-practice/blob/main/notebooks/prac_pt.ipynb): Hello World PyTorch code to learn the model in the MNIST dataset.
+* PyTorch Transfer Learning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tidota/deep-learning-practice/blob/main/notebooks/transfer_learning_pt.ipynb): PyTorch code to perform fine-tuning on the existing models to learn the model in the cats-vs-dogs dataset. (note that the dataset is from `tensorflow_datasets`)
 
